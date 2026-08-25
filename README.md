@@ -4,8 +4,7 @@
 **Blue POS** es una aplicación de escritorio para la **gestión de gastos, productos y ventas**
 para los **puntos de ventas en Cuba**. Permite realizar **reportes** de ventas y gastos a varias
 escalas temporales, así como mostrar **estadísticas** de forma gráfica. Blue POS se creó
-con el fin de ayudar a crecer y optimizar a los pequeños negocios de Cuba. Este software
-será **gratis por siempre**.
+con el fin de ayudar a crecer y optimizar a los pequeños negocios.
 
 # Funcionalidades de Blue POS
 
