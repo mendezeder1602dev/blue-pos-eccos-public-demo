@@ -1,12 +1,12 @@
 
-# Blue POS
+# PUNTOS ECCOS
 
 **Blue POS** es una aplicación de escritorio para la **gestión de gastos, productos y ventas**
-para los **puntos de ventas en Cuba**. Permite realizar **reportes** de ventas y gastos a varias
-escalas temporales, así como mostrar **estadísticas** de forma gráfica. Blue POS se creó
+para los **puntos de ventas mexico**. Permite realizar **reportes** de ventas y gastos a varias
+escalas temporales, así como mostrar **estadísticas** de forma gráfica. Puntos ECCOS se creó
 con el fin de ayudar a crecer y optimizar a los pequeños negocios.
 
-# Funcionalidades de Blue POS
+# Funcionalidades de PUNTOS ECCOS
 
 ## Gestión de productos
 
@@ -97,7 +97,7 @@ o para añadir otras funciones al programa.
 ### Ejecutar la app
 
 Esta app es multiplataforma. Ha sido probada en Windows y Linux. Para ejecutar la app sólo es necesario tener instalada
-la versión de **Python** **3.7.4** o superior. Antes de ejecutar por primera vez Blue POS es recomendable actualizar la versión de **pip**:
+la versión de **Python** **3.7.4** o superior. Antes de ejecutar por primera vez PUNTOS ECCOS es recomendable actualizar la versión de **pip**:
 
 ```
 #Para Windows
